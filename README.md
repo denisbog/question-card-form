@@ -11,7 +11,7 @@ This repository contains a Pi extension for turning the previous assistant respo
 After pushing this repo to GitHub, install it in another Pi instance with:
 
 ```bash
-pi install git:github.com/<your-user>/<your-repo>
+pi install git:github.com/denisbog/question-card-form
 ```
 
 Then reload Pi:
