@@ -1,0 +1,9 @@
+# Rust
+rust/target/
+target/
+
+# Pi local data
+.pi/
+
+# Node
+node_modules/
